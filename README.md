@@ -74,6 +74,9 @@ The dashboard integrates several visualization types to present data in a user-f
 
 ---
 
+### Accessing Visualizations
+The visualizations are hosted on Tableau Public and can be accessed through the following link: [Tableau Dashboard](https://public.tableau.com/shared/FC5KM392P?:display_count=n&:origin=viz_share_link).
+
 
 ### **Conclusion**
 
